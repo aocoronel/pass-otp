@@ -22,6 +22,7 @@
 ## Requirements
 
 - [pass](https://github.com/aocoronel/pass)
+- `oathtool`
 
 ## Installation
 
@@ -30,7 +31,6 @@ curl -sSL https://github.com/aocoronel/pass-otp/raw/main/install.sh | bash
 ```
 
 ## Usage
-
 
 ```
   ---------------------------------------------------
@@ -79,6 +79,7 @@ Examples:
   pass-otp clip MyService
   pass-otp list
 ```
+
 > [!IMPORTANT]
 > First-time users must set up [pass](https://github.com/aocoronel/pass) before using `pass-otp`.
 
