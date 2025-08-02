@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "Cloning repository"
-git clone https://github.com/janpstrunn/pass-otp
+git clone https://github.com/anstrinn/pass-otp
 cd pass-otp
 
 # Install the main script

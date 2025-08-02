@@ -1,9 +1,9 @@
-<img src="https://git.disroot.org/janpstrunn/images/raw/branch/main/pass.png" align="right" height="100"/>
+<img src="https://git.disroot.org/anstrinn/images/raw/branch/main/pass.png" align="right" height="100"/>
 <br>
 
 # pass-otp: A CLI OTP Manager
 
-`pass-otp` is a sophisticated one-time password (OTP) manager designed to complement [pass](https://github.com/janpstrunn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. Crafted in shell, `pass-otp` streamlines the management of OTPs and recovery keys, ensuring robust security standards.
+`pass-otp` is a sophisticated one-time password (OTP) manager designed to complement [pass](https://github.com/anstrinn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. Crafted in shell, `pass-otp` streamlines the management of OTPs and recovery keys, ensuring robust security standards.
 
 ## Features
 
@@ -21,13 +21,13 @@
 
 ## Requirements
 
-- [pass](https://github.com/janpstrunn/pass)
+- [pass](https://github.com/anstrinn/pass)
 - `oathtool`
 
 ## Installation
 
 ```bash
-curl -sSL https://github.com/janpstrunn/pass-otp/raw/main/install.sh | bash
+curl -sSL https://github.com/anstrinn/pass-otp/raw/main/install.sh | bash
 ```
 
 ## Usage
@@ -81,7 +81,7 @@ Examples:
 ```
 
 > [!IMPORTANT]
-> First-time users must set up [pass](https://github.com/janpstrunn/pass) before using `pass-otp`.
+> First-time users must set up [pass](https://github.com/anstrinn/pass) before using `pass-otp`.
 
 ## Importing from passwordstore
 
