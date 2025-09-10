@@ -1,6 +1,3 @@
-<img src="https://git.disroot.org/aocoronel/images/raw/branch/main/pass.png" align="right" height="100"/>
-<br>
-
 # pass-otp: A CLI OTP Manager
 
 `pass-otp` is a sophisticated one-time password (OTP) manager designed to complement [pass](https://github.com/aocoronel/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. Crafted in shell, `pass-otp` streamlines the management of OTPs and recovery keys, ensuring robust security standards.
